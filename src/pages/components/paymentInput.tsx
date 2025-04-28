@@ -21,7 +21,8 @@ export default function CheckoutButton() {
 
     // Validate price
     if (priceInCents <= 0) {
-      alert("Please enter a valid price amount")
+      
+      alert(localizedData.please)
       setLoading(false)
       return
     }
