@@ -1,0 +1,39 @@
+{
+    "language": "Arabic",
+    "contact_info": "Contact Info",
+    "email": "Email:",
+    "phone": "Phone:",
+    "navigation": "Navigation",
+    "home": "Home",
+    "contributions": "Contributions",
+    "mission": "Mission",
+    "logo_part1": "Amaan",
+    "logo_part2": "",
+    "slogan": "Amaan – Because every soul deserves a chance for life, care, and love.",
+    "copyright": "© 2025 Amaan Project. All rights reserved."
+  
+    ,"title": "Join building 'Aman'... the first permanent rescue and care home for animals",
+    "description": "Thousands of small souls live in the streets without shelter, suffering in silence, waiting for a helping hand.\nThe 'Aman' project is a dream we draw together — a permanent shelter that provides care, warmth, and food for every voiceless animal.\nYour donation today doesn't just save a single life; it helps build a house of life... a safe haven for those lost in the open.",
+    "button": "Donate Now",
+    "input": "Enter the amount you wish to donate in USD",
+    "sentence": "Stone by stone, with your support... we build Safety."
+    ,
+    "heading": "Real Steps Towards Safety",
+    "description2": "With the support of kind hearts, we've been able to rescue and adopt thousands of cases... Now, we begin the most important phase together: realizing the dream and opening the first permanent shelter that brings all these little hearts together in one place.",
+    "stat1": "Volunteers participated in our campaigns",
+    "stat2": "Cases of medical treatment and rehabilitation",
+    "stat3": "Animals rescued",
+    "message_heading": "Our mission at \"Aman\": A safe life for every being",
+    "message_description": "At Aman, we believe that every living creature, no matter how small or weak, deserves protection, care, and shelter. We work to create a permanent home that embraces these souls, away from cruelty, neglect, or pain. We aim not only to rescue but to build a loving, conscious society that believes mercy begins with the weakest of God's creation."
+   , "loading": "Loading...",
+  "payNow": "Pay Now",
+  "paymentSuccess": "Payment Successful!",
+  "thankYouMessage": "Thank you for your payment. Your transaction has been completed.",
+  "confirmationEmail": "A confirmation email has been sent to your email address.",
+  "returnHome": "Return to Home",
+  "paymentCancelled": "Payment Cancelled",
+  "paymentCancelledMessage": "Your payment process was cancelled.",
+  "noCharges": "No charges were made to your account.",
+  "tryAgain": "Try Again"
+}
+  
