@@ -7,7 +7,7 @@ import {
   useLanguageStore,
 } from "../../app/store/useLanguageStore";
 
-const stripePromise = loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY); //
+const stripePromise = loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY || "");
 
 export default function CheckoutButton() {
   const [loading, setLoading] = useState(false);
