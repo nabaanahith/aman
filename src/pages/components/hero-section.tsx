@@ -21,6 +21,8 @@ export default function HeroSection() {
   if (!mounted) return null;
 
   return (
-  
+   <section className="relative rounded-xl  ">
+     
+    </section> 
   );
 }
